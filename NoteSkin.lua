@@ -40,8 +40,6 @@ USWN.ElementRedir =
 -- you can add/remove stuff if you want
 USWN.Blank =
 {
-	["Tap Explosion Bright"] = true,
-	["Tap Explosion Dim"] = true,
 	["Hold Topcap Active"] = true,
 	["Hold Topcap Inactive"] = true,
 	["Roll Topcap Active"] = true,
